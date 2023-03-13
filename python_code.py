@@ -192,11 +192,11 @@ def user_stats(df):
     
 def display_data(df):
     start_loc = 0
-    view_data = input('\nWould you like to see 5 rows of data?  Enter yes or no\n')
+    view_data = input('\nWould you like to see 10 rows of data?  Enter yes or no\n')
     
     while view_data == 'yes':
-            print(df.iloc[start_loc:start_loc +5])
-            start_loc += 5
+            print(df.iloc[start_loc:start_loc +10])
+            start_loc += 10
             view_data = input('Do you want to Continue?: ').lower()
        
             
