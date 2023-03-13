@@ -4,7 +4,7 @@ March 13, 2023
 Bikeshare Data
 
 Description
-Project provides monthly, weekly and user data on Bikeshare riding for the following 3 cities: Chicago, New York City, and Washington.
+Project provides monthly and weekly data on Bikeshare riding for the following 3 cities: Chicago, New York City, and Washington. 
 
 Files used
 chicago.csv
